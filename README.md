@@ -7,11 +7,8 @@ surfing community. I also competed in Portugal’s largest hackathon, achieving 
 ## What I'm Working On
 - Developing **SurForecast**, an AI-supported surf forecast assistant (FastAPI + React + Supabase)  
 
-![Java 70%](https://img.shields.io/badge/Java-70%25-blue)
-![Python 50%](https://img.shields.io/badge/Python-50%25-yellow)
-![C%23 35%](https://img.shields.io/badge/C%23-35%25-green)
-![React 60%](https://img.shields.io/badge/React-60%25-lightblue)
-![FastAPI 45%](https://img.shields.io/badge/FastAPI-45%25-teal)
+## Technologies
+![pcp2003's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pcp2003&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## Contact
 **Email:** pedropacheco2709@gmail.com  
