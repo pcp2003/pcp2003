@@ -1,11 +1,11 @@
 
 ## Quick Introduction
-I’m **Pedro Pacheco**, a software developer focused on building clean, reliable and efficient solutions across backend, frontend and AI systems.  
-I enjoy designing end-to-end architectures, working with intelligent automation, and building practical tools that solve real problems.
+Practical learner with hands-on experience in software development, artificial intelligence, databases, and game
+development. Developed several personal AI-related projects and am currently building a full-stack web app for the
+surfing community. I also competed in Portugal’s largest hackathon, achieving 3rd place.
 
 ## What I'm Working On
 - Developing **SurForecast**, an AI-supported surf forecast assistant (FastAPI + React + Supabase)  
-- Improving my expertise in **LLM workflows**, **TypeScript**, and **cloud-based architectures**
 
 ![Java 70%](https://img.shields.io/badge/Java-70%25-blue)
 ![Python 50%](https://img.shields.io/badge/Python-50%25-yellow)
