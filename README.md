@@ -6,7 +6,8 @@ surfing community. I also competed in Portugal’s largest hackathon, achieving 
 
 ## What I'm Working On
 - Developing **SurForecast**, an AI-supported surf forecast assistant (FastAPI + React + Supabase)
-- 
+
+
 <div align="center">
 ## Stats
 ![pcp2003's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pcp2003&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
