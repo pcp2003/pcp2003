@@ -1,4 +1,5 @@
 <div align="center">
+  
 ## Quick Introduction
 Practical learner with hands-on experience in software development, artificial intelligence, databases, and game
 development. Developed several personal AI-related projects and am currently building a full-stack web app for the
