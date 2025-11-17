@@ -3,7 +3,7 @@
 Practical learner with hands-on experience in software development, artificial intelligence, databases, and game
 development. Developed several personal AI-related projects and am currently building a full-stack web app for the
 surfing community. I also competed in Portugal’s largest hackathon, achieving 3rd place.
-<div>
+
 
 ## What I'm Working On
 - Developing **SurForecast**, an AI-supported surf forecast assistant (FastAPI + React + Supabase)
@@ -15,5 +15,4 @@ surfing community. I also competed in Portugal’s largest hackathon, achieving 
 ## Contact
 **Email:** pedropacheco2709@gmail.com  
 **LinkedIn:** https://linkedin.com/in/pedro-pacheco-479596353  
-
-
+</div>
