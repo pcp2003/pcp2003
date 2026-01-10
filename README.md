@@ -23,11 +23,6 @@ Competitor in Portugal’s largest hackathon, achieving **3rd place**.
 
 ---
 
-## GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pcp2003&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
----
-
 ## Contact
 **Email:** [pedropacheco2709@gmail.com](mailto:pedropacheco2709@gmail.com)  
 **LinkedIn:** [linkedin.com/in/pedro-pacheco-479596353](https://linkedin.com/in/pedro-pacheco-479596353)
